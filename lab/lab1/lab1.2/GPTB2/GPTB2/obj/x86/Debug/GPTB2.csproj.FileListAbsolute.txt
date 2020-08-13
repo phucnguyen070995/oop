@@ -1,4 +1,6 @@
-C:\Users\user\Desktop\phuc_1927030\GPTB2\GPTB2\bin\Debug\GPTB2.exe
-C:\Users\user\Desktop\phuc_1927030\GPTB2\GPTB2\bin\Debug\GPTB2.pdb
-C:\Users\user\Desktop\phuc_1927030\GPTB2\GPTB2\obj\x86\Debug\GPTB2.exe
-C:\Users\user\Desktop\phuc_1927030\GPTB2\GPTB2\obj\x86\Debug\GPTB2.pdb
+C:/Users/user/Desktop/phuc_1927030/GPTB2/GPTB2/bin/Debug/GPTB2.exe
+C:/Users/user/Desktop/phuc_1927030/GPTB2/GPTB2/bin/Debug/GPTB2.pdb
+C:/Users/user/Desktop/phuc_1927030/GPTB2/GPTB2/obj/x86/Debug/GPTB2.exe
+C:/Users/user/Desktop/phuc_1927030/GPTB2/GPTB2/obj/x86/Debug/GPTB2.pdb
+/Users/mac/Phuc/oop/lab/lab1/lab1.2/GPTB2/GPTB2/obj/x86/Debug/GPTB2.exe
+/Users/mac/Phuc/oop/lab/lab1/lab1.2/GPTB2/GPTB2/obj/x86/Debug/GPTB2.pdb
