@@ -1,0 +1,12 @@
+/Users/mac/Phuc/oop/lab_macos/lab3/lab3.2/bin/Debug/netcoreapp3.1/lab3.2.deps.json
+/Users/mac/Phuc/oop/lab_macos/lab3/lab3.2/bin/Debug/netcoreapp3.1/lab3.2.runtimeconfig.json
+/Users/mac/Phuc/oop/lab_macos/lab3/lab3.2/bin/Debug/netcoreapp3.1/lab3.2.runtimeconfig.dev.json
+/Users/mac/Phuc/oop/lab_macos/lab3/lab3.2/bin/Debug/netcoreapp3.1/lab3.2.dll
+/Users/mac/Phuc/oop/lab_macos/lab3/lab3.2/bin/Debug/netcoreapp3.1/lab3.2.pdb
+/Users/mac/Phuc/oop/lab_macos/lab3/lab3.2/obj/Debug/netcoreapp3.1/lab3.2.csprojAssemblyReference.cache
+/Users/mac/Phuc/oop/lab_macos/lab3/lab3.2/obj/Debug/netcoreapp3.1/lab3.2.AssemblyInfoInputs.cache
+/Users/mac/Phuc/oop/lab_macos/lab3/lab3.2/obj/Debug/netcoreapp3.1/lab3.2.AssemblyInfo.cs
+/Users/mac/Phuc/oop/lab_macos/lab3/lab3.2/obj/Debug/netcoreapp3.1/lab3.2.csproj.CoreCompileInputs.cache
+/Users/mac/Phuc/oop/lab_macos/lab3/lab3.2/obj/Debug/netcoreapp3.1/lab3.2.dll
+/Users/mac/Phuc/oop/lab_macos/lab3/lab3.2/obj/Debug/netcoreapp3.1/lab3.2.pdb
+/Users/mac/Phuc/oop/lab_macos/lab3/lab3.2/obj/Debug/netcoreapp3.1/lab3.2.genruntimeconfig.cache
