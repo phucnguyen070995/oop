@@ -1,0 +1,13 @@
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab5\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.csprojAssemblyReference.cache
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab5\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.AssemblyInfoInputs.cache
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab5\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.AssemblyInfo.cs
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab5\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.csproj.CoreCompileInputs.cache
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab5\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.exe
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab5\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.deps.json
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab5\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.runtimeconfig.json
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab5\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.runtimeconfig.dev.json
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab5\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.dll
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab5\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.pdb
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab5\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.dll
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab5\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.pdb
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab5\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab6.2\lab6.2\bin\Debug\netcoreapp3.1\lab6.2.exe
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab6.2\lab6.2\bin\Debug\netcoreapp3.1\lab6.2.deps.json
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab6.2\lab6.2\bin\Debug\netcoreapp3.1\lab6.2.runtimeconfig.json
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab6.2\lab6.2\bin\Debug\netcoreapp3.1\lab6.2.runtimeconfig.dev.json
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab6.2\lab6.2\bin\Debug\netcoreapp3.1\lab6.2.dll
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab6.2\lab6.2\bin\Debug\netcoreapp3.1\lab6.2.pdb
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab6.2\lab6.2\obj\Debug\netcoreapp3.1\lab6.2.csprojAssemblyReference.cache
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab6.2\lab6.2\obj\Debug\netcoreapp3.1\lab6._2.Form1.resources
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab6.2\lab6.2\obj\Debug\netcoreapp3.1\lab6.2.csproj.GenerateResource.cache
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab6.2\lab6.2\obj\Debug\netcoreapp3.1\lab6.2.AssemblyInfoInputs.cache
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab6.2\lab6.2\obj\Debug\netcoreapp3.1\lab6.2.AssemblyInfo.cs
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab6.2\lab6.2\obj\Debug\netcoreapp3.1\lab6.2.csproj.CoreCompileInputs.cache
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab6.2\lab6.2\obj\Debug\netcoreapp3.1\lab6.2.dll
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab6.2\lab6.2\obj\Debug\netcoreapp3.1\lab6.2.pdb
+E:\computer_science\HKhe\lap_trinh_huong_doi_tuong\lab\lab6.2\lab6.2\obj\Debug\netcoreapp3.1\lab6.2.genruntimeconfig.cache
